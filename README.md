@@ -1,2 +1,2 @@
 # Android-Projects
-Examples of some my Android Projects
+Examples of some of my Android Projects
